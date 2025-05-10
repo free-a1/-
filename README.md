@@ -29,12 +29,19 @@
 - Windows 10+/macOS 10.15+/Linux (Ubuntu 20.04+)
 - 推荐配置：4GB显存GPU（非必须，CPU可运行）
 
-### 打包版本 (Windows)
-下载最新发布的 IdentiFace_Windows.zip
-解压后运行可执行文件：
+### 打包版本 (Windows
+下载模型 Models，下载地址如下
+
 ```commandline
-cd dist/IdentiFace
-IdentiFace.exe
+https://pan.quark.cn/s/09c4eecc5d42
+```
+把模型压缩到到相同目录下
+
+将代码克隆到本地
+
+运行可执行文件：
+```commandline
+python main.py
 ```
 首次使用
 
