@@ -1,3 +1,0 @@
-avahi       838    812  0 03:59 ?        00:00:00 avahi-daemon: chroot helper
-user      15124      1  0 04:39 ?        00:00:00 bash -c i=0; while true; do i=$((i+1)); tail -1 /opt/demo/backend.log > /opt/demo/frontend.html 2>/dev/null; sleep 3; done
-root      35499  25348  0 05:23 pts/0    00:00:00 sudo unshare -m -p -f chroot /opt/myroot /bin/bash -c umask 000; /bin/bash /tmp/infer_service.sh

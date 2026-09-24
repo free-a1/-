@@ -1,1 +1,0 @@
--rw-r--r--. 1 root root 3.7M 9月  20 05:23 /opt/my-infer-v1.tar.gz
